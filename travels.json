@@ -52,7 +52,8 @@
           "Roupas adequadas ao clima",
           "Tênis ou calçado confortável"
         ]
-      }
+      },
+      "color": "red"
     },
     {
       "id": 2,
@@ -112,7 +113,8 @@
           "Roupas adequadas ao clima",
           "Tênis ou calçado confortável"
         ]
-      }
+      },
+      "color": "green"
     },
     {
       "id": 3,
@@ -172,7 +174,8 @@
           "Roupas adequadas ao clima",
           "Tênis ou calçado confortável"
         ]
-      }
+      },
+      "color": "yellow"
     },
     {
       "id": 4,
@@ -232,7 +235,8 @@
           "Roupas adequadas ao clima",
           "Tênis ou calçado confortável"
         ]
-      }
+      },
+      "color": "orange"
     },
     {
       "id": 5,
@@ -292,7 +296,8 @@
           "Roupas adequadas ao clima",
           "Tênis ou calçado confortável"
         ]
-      }
+      },
+      "color": "purple"
     }
   ]
 }
