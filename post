@@ -1,0 +1,49 @@
+{
+  "posts": [
+  {
+    "id": 1,
+    "profilePicture": "https://unsplash.com/photos/1LX_k8le7KI",
+    "username": "coding_guru",
+    "postDateTime": "14/01/25 - 08:30",
+    "content": "Aprender a programar é como aprender um novo idioma: prática, paciência e persistência são essenciais! 🚀💻",
+    "likes": 152,
+    "comments": 24
+  },
+  {
+    "id": 2,
+    "profilePicture": "https://pixabay.com/photos/123456",
+    "username": "nature_lover",
+    "postDateTime": "13/01/25 - 19:15",
+    "content": "A natureza nos ensina a viver no presente. Respire fundo e aproveite o momento. 🌳🍃",
+    "likes": 304,
+    "comments": 45
+  },
+  {
+    "id": 3,
+    "profilePicture": "https://unsplash.com/photos/7sEpTgtL_7U",
+    "username": "tech_trends",
+    "postDateTime": "14/01/25 - 14:00",
+    "content": "Inteligência artificial está mudando o mundo mais rápido do que imaginamos. O que você acha que vem a seguir? 🤖🌐",
+    "likes": 210,
+    "comments": 67
+  },
+  {
+    "id": 4,
+    "profilePicture": "https://pixabay.com/photos/987654",
+    "username": "foodie_adventures",
+    "postDateTime": "13/01/25 - 20:45",
+    "content": "Experimentando uma receita nova hoje! Quem quer um pedaço? 🥘😋",
+    "likes": 125,
+    "comments": 18
+  },
+  {
+    "id": 5,
+    "profilePicture": "https://unsplash.com/photos/WLUHO9A_xik",
+    "username": "travel_dreams",
+    "postDateTime": "14/01/25 - 10:00",
+    "content": "Próxima parada: as praias paradisíacas do Havaí! 🌴🏖️ Onde você gostaria de ir em 2025?",
+    "likes": 450,
+    "comments": 89
+  }
+]
+}
